@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Mohanavijayan J!
 
 🎓 B.Tech CSE Graduate 
+
 💡 Passionate about building real-world web applications and solving problems with code  
 💻 Currently learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
 📊 Also exploring **Data Science & Visualization** using Python, Pandas, and Streamlit  
