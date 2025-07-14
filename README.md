@@ -5,6 +5,7 @@
 💡 Passionate about building real-world web applications and solving problems with code  
 💻 Currently learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
 📊 Also exploring **Data Science & Visualization** using Python, Pandas, and Streamlit  
+
 📁 Featured Projects:
 - [Supermarket Sales Analysis Dashboard](https://github.com/Mohan30-7/Supermarket-Sales-Analysis)
 - [HTML & CSS Practice Projects](https://github.com/Mohan30-7/html-css-practice)
