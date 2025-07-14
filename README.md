@@ -44,8 +44,9 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanavijayan-j-11328933b)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohanavijayanj@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanavijayan-j-11328933b)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohanavijayanj@gmail.com)  
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1I_mKEss0V148psflutit8kNbQAeJzxMq/view?usp=drivesdk)
 
 Thanks for visiting my profile!  
