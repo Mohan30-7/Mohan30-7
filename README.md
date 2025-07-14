@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Mohanavijayan J!
 
 🎓 B.Tech CSE Graduate 
+
 💡 Passionate about building real-world web applications and solving problems with code  
 💻 Currently learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
 📊 Also exploring **Data Science & Visualization** using Python, Pandas, and Streamlit  
@@ -44,7 +45,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanavijayan-j-11328933b)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohanavijayanj@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohanavijayanj@gmail.com)
 
 Thanks for visiting my profile!  
 Feel free to explore my repositories and drop a ⭐ if you find something helpful.
